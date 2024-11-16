@@ -1,0 +1,29 @@
+.footer{
+    padding: 40px;
+    background-color: #2b3d4f;
+    color: white;
+    .card-group{
+        margin: 24px;
+        .card-body{
+            padding: 16px;
+            .social-icons{
+                .icon{
+                    border: 1px soli white;
+                    border-radius: 50%;
+                }
+            }
+        }
+    }
+}
+.copyright{
+    padding: 10px;
+    background-color: #19242e;
+    color: white;
+    p{
+        padding-top: 10px;
+        margin-bottom: 16px;
+    }
+}
+
+
+

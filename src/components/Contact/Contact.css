@@ -1,0 +1,23 @@
+.contact{
+    color: #2b3d4f;
+    height: fit-content;
+    .title  {
+        .text{
+            h2{
+                font-size: 40px;
+            }
+            .star{
+                color: #2b3d4f;
+                font-size: 18px;
+            }
+            .line{
+                background-color: #2b3d4f;
+                height: 4px;
+                width: 80px;
+            }
+        }
+    }
+    
+}
+
+

@@ -1,0 +1,25 @@
+.about{
+    background-color: #1abd9c;
+    height: fit-content;
+    padding-bottom: 270px;
+    .title  {
+        
+        .text{
+            h2{
+                font-size: 40px;
+            }
+            .star{
+                color: white;
+                font-size: 18px;
+            }
+            .line{
+                background-color: white;
+                height: 4px;
+                width: 80px;
+            }
+        }
+    }
+    .content{
+        max-width: 555px;
+    }
+}
